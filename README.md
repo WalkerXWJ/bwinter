@@ -1,9 +1,6 @@
 # bwinter
-
-<!-- 黑色背景 + 白色文字 -->
-<code style="background: #000; color: white; padding: 2px 4px; border-radius: 4px;">CI</code><code style="background: #28a745; color: white; padding: 2px 4px; border-radius: 4px;">passing</code>
-
-<!-- 绿色背景 + 白色文字 -->
+![](https://img.shields.io/badge/bwinter%20｜%20燃冬-8A2BE2)
+![License](https://img.shields.io/badge/Python-3.9.3-yellow) 
 
 
 > [!NOTE]
